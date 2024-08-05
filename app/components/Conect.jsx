@@ -21,7 +21,7 @@ const Conect = () => {
       <div className="bg-[radial-gradient(ellipse_at_center,_var(--tw-gradient-stops))] from-primary-900 to-transparent rounded-full h-80 w-80 z-0 blur-lg absolute top-3/4 -center-4 transform -translate-x-1/2 -translate-y-1/2"></div>
       
       {/* Contenido principal */}
-      <div className="z-10 text-center">
+      <div className="z-9 text-center ">
         <h5 className="text-xl font-bold text-white mb-2">
           Let&apos;s Connect
         </h5>
