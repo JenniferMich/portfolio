@@ -61,7 +61,7 @@ const HeroSection = () => {
               </span>
             </a>
             <a
-              href="/images/projects/CVE.pdf" 
+              href="/images/projects/CV.pdf" 
               download="Currículum Vitae JMCL.pdf" 
               className="px-1 py-1 w-full sm:w-fit rounded-full ml-4 bg-gradient-to-br from-red-950 via-pink-950 to-pink-700 hover:bg-slate-200 text-white mt-3 inline-block text-center"
             >
